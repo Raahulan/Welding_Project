@@ -43,6 +43,7 @@ Here are some images from the fabrication and final rack:
 <p align="center">
   <img src="images/rack-side.jpg" alt="Rack Side View" width="400">
   <img src="images/rack-front.jpg" alt="Rack Front View" width="400">
+  <img src="images/members.jpg" alt="members View" width="400">
 </p>
 
 ---
