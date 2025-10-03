@@ -41,9 +41,29 @@ An essential addition to any laboratory for maintaining order and quick access t
 Here are some images from the fabrication and final rack:
 
 <p align="center">
-  <img src="images/rack-side.jpg" alt="Rack Side View" width="400">
+  <img src="images/rack-side.jpg" alt="Rack Side View" width="250">
   <img src="images/rack-front.jpg" alt="Rack Front View" width="400">
-  <img src="images/members.jpg" alt="members View" width="400">
+  <img src="images/members.jpg" alt="Members View" width="250">
+</p>
+
+---
+
+## 🔥 Welding Process
+Snapshots of the actual welding work done during fabrication:
+
+<p align="center">
+  <img src="images/welding1.jpg" alt="Welding sparks flying while joining frame" width="250">
+  <br><em>Welding sparks flying while joining the rack frame</em>
+</p>
+
+<p align="center">
+  <img src="images/welding2.jpg" alt="Careful alignment of perforated sheet before welding" width="250">
+  <br><em>Aligning and welding the perforated sheet</em>
+</p>
+
+<p align="center">
+  <img src="images/welding3.jpg" alt="Close-up view of welding torch during process" width="250">
+  <br><em>Close-up of the welding torch in action</em>
 </p>
 
 ---
