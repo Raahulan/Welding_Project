@@ -41,9 +41,9 @@ An essential addition to any laboratory for maintaining order and quick access t
 Here are some images from the fabrication and final rack:
 
 <p align="center">
-  <img src="images/rack-side.jpg" alt="Rack Side View" width="250">
+  <img src="images/rack-side.jpg" alt="Rack Side View" width="500">
   <img src="images/rack-front.jpg" alt="Rack Front View" width="400">
-  <img src="images/members.jpg" alt="Members View" width="250">
+  <img src="images/members.jpg" alt="Members View" width="500">
 </p>
 
 ---
